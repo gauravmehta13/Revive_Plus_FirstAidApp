@@ -6,7 +6,7 @@ Because accidents do happen</b></br>
 Developed to increase the awareness of people in non-specialized medical aspects in order to increase awareness and develop emergency capacity in case of any emergencies or sudden accidents.<sub>
 </p>
  
- <img src="images/Screenshot_20200908-182649.png" width="200">  <img src="images/Screenshot_20200908-182640.png" width="200">  <img src="images/Screenshot_20200908-182644.png" width="200"> 
+ <img src="Screenshot_20200908-182649.png" width="200">  <img src="Screenshot_20200908-182640.png" width="200">  <img src="Screenshot_20200908-182644.png" width="200"> 
 
 
  
