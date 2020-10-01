@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'HomePage.dart';
 import 'Screens/Splash Screen.dart';
 
 void main() {
@@ -17,6 +18,11 @@ class MyApp extends StatelessWidget {
           visualDensity: VisualDensity.adaptivePlatformDensity,
           accentColor: Colors.yellow
         ),
-        home: SplashScreen());
+        //home: SplashScreen()
+        initialRoute: "/",
+        routes: {
+          "/": (context) => SplashScreen(),
+          "home": (context) => HomePage()
+        });
   }
 }
