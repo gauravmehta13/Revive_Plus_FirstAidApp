@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Revive +',
         theme: ThemeData(
-          brightness: Brightness.dark,
+          brightness: Brightness.dark, //DARK THEME
           primarySwatch: Colors.yellow,
           visualDensity: VisualDensity.adaptivePlatformDensity,
           accentColor: Colors.yellow
