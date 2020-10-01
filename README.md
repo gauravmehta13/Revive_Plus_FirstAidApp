@@ -8,7 +8,7 @@ Created to build the consciousness of individuals in non-particular clinical vie
  
  <p align="center"> <img src="Screenshot_20200908-182649.png" width="200">  <img src="Screenshot_20200908-182640.png" width="200">  <img src="Screenshot_20200908-182644.png" width="200"> </p>
 
-
+<img src="images/Screenshot_20200908-182649.png" width="200">  <img src="images/Screenshot_20200908-182640.png" width="200">  <img src="images/Screenshot_20200908-182644.png" width="200"> 
  
  <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.gauravmehta13.revive.Revive">
@@ -19,4 +19,3 @@ Created to build the consciousness of individuals in non-particular clinical vie
       <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" img width="5000" height="5" />
 </p>
-
