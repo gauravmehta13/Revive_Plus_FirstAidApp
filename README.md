@@ -6,9 +6,7 @@ Because accidents do happen</b></br>
 Created to build the consciousness of individuals in non-particular clinical viewpoints so as to expand mindfulness and create crisis limit if there should arise an occurrence of any crises or unexpected mishaps.<sub>
 </p>
  
- <p align="center"> <img src="Screenshot_20200908-182649.png" width="200">  <img src="Screenshot_20200908-182640.png" width="200">  <img src="Screenshot_20200908-182644.png" width="200"> </p>
-
-<img src="images/Screenshot_20200908-182649.png" width="200">  <img src="images/Screenshot_20200908-182640.png" width="200">  <img src="images/Screenshot_20200908-182644.png" width="200"> 
+ <p align="center"> <img src="Screenshot_20200908-182649.png" width="200">  <img src="Screenshot_20200908-182640.png" width="200">  <img src="Screenshot_20200908-182644.png" width="200"> </p> 
  
  <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.gauravmehta13.revive.Revive">
