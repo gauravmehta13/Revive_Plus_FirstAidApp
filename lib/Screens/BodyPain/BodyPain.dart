@@ -24,6 +24,7 @@ class BodyPain extends StatelessWidget {
           Container(
             width: MediaQuery.of(context).size.width,
             height: 500,
+            //width: 500,
             decoration: BoxDecoration(
                 color: Colors.redAccent,
                 image: DecorationImage(
