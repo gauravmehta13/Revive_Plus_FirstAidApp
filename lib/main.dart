@@ -12,8 +12,10 @@ class MyApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Revive +',
         theme: ThemeData(
-          primarySwatch: Colors.red,
+          brightness: Brightness.dark,
+          primarySwatch: Colors.yellow,
           visualDensity: VisualDensity.adaptivePlatformDensity,
+          accentColor: Colors.yellow
         ),
         home: SplashScreen());
   }
